@@ -10,7 +10,7 @@
 				"emacs-paredit"
 				"emacs-org-roam"
 				"emacs-org-pomodoro"
-				"emacs-org-bullets"
+				"emacs-org-superstar" ; New replacement for "emacs-org-bullets"
 				"emacs-company-auctex"
 				"emacs-flycheck"
 				"emacs-company"
