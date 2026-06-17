@@ -18,4 +18,5 @@
 				"emacs-spacemacs-theme"
 				"emacs-guix"
 				"emacs"
+				"zstd" ; Required for man pages
 				"git"))
