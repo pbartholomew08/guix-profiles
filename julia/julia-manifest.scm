@@ -5,4 +5,4 @@
 ;; See the "Replicating Guix" section in the manual.
 
 (specifications->manifest (list "emacs-julia-snail"
-				"julia"))
+				"julia@1.8.5"))

@@ -4,11 +4,4 @@
 ;; capture the channels being used, as returned by "guix describe".
 ;; See the "Replicating Guix" section in the manual.
 
-(specifications->manifest (list "emacs-geiser"
-				"emacs-geiser-guile"
-				"emacs-geiser-racket"
-				"emacs-geiser-chez"
-				"guile"
-				"mit-scheme"
-				"chez-scheme"
-				"racket"))
+(specifications->manifest (list "openfoam-org"))
